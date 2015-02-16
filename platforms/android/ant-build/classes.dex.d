@@ -1,0 +1,23 @@
+c:\Users\peter\Documents\GitHub\scanner\platforms\android\ant-build\classes.dex : \
+c:\Users\peter\Documents\GitHub\scanner\platforms\android\ant-build\classes\com\libingweb\scanner\BuildConfig.class \
+c:\Users\peter\Documents\GitHub\scanner\platforms\android\ant-build\classes\com\libingweb\scanner\CordovaApp.class \
+c:\Users\peter\Documents\GitHub\scanner\platforms\android\ant-build\classes\com\libingweb\scanner\R$attr.class \
+c:\Users\peter\Documents\GitHub\scanner\platforms\android\ant-build\classes\com\libingweb\scanner\R$drawable.class \
+c:\Users\peter\Documents\GitHub\scanner\platforms\android\ant-build\classes\com\libingweb\scanner\R$raw.class \
+c:\Users\peter\Documents\GitHub\scanner\platforms\android\ant-build\classes\com\libingweb\scanner\R$string.class \
+c:\Users\peter\Documents\GitHub\scanner\platforms\android\ant-build\classes\com\libingweb\scanner\R$xml.class \
+c:\Users\peter\Documents\GitHub\scanner\platforms\android\ant-build\classes\com\libingweb\scanner\R.class \
+c:\Users\peter\Documents\GitHub\scanner\platforms\android\ant-build\classes\com\mirasense\scanditsdk\plugin\ScanditSDK.class \
+c:\Users\peter\Documents\GitHub\scanner\platforms\android\ant-build\classes\com\mirasense\scanditsdk\plugin\ScanditSDKActivity.class \
+c:\Users\peter\Documents\GitHub\scanner\platforms\android\ant-build\classes\com\mirasense\scanditsdk\plugin\ScanditSDKResultRelay$ScanditSDKResultRelayCallback.class \
+c:\Users\peter\Documents\GitHub\scanner\platforms\android\ant-build\classes\com\mirasense\scanditsdk\plugin\ScanditSDKResultRelay.class \
+c:\Users\peter\Documents\GitHub\scanner\platforms\android\ant-build\classes\io\cordova\hellocordova\BuildConfig.class \
+c:\Users\peter\Documents\GitHub\scanner\platforms\android\ant-build\classes\io\cordova\hellocordova\CordovaApp.class \
+c:\Users\peter\Documents\GitHub\scanner\platforms\android\ant-build\classes\io\cordova\hellocordova\R$attr.class \
+c:\Users\peter\Documents\GitHub\scanner\platforms\android\ant-build\classes\io\cordova\hellocordova\R$drawable.class \
+c:\Users\peter\Documents\GitHub\scanner\platforms\android\ant-build\classes\io\cordova\hellocordova\R$raw.class \
+c:\Users\peter\Documents\GitHub\scanner\platforms\android\ant-build\classes\io\cordova\hellocordova\R$string.class \
+c:\Users\peter\Documents\GitHub\scanner\platforms\android\ant-build\classes\io\cordova\hellocordova\R$xml.class \
+c:\Users\peter\Documents\GitHub\scanner\platforms\android\ant-build\classes\io\cordova\hellocordova\R.class \
+c:\Users\peter\Documents\GitHub\scanner\platforms\android\ant-build\dexedLibs\classes-d02aad12d7a8f1bda8818ddafa101ed8.jar \
+c:\Users\peter\Documents\GitHub\scanner\platforms\android\ant-build\dexedLibs\scanditsdk-barcodepicker-android-4.2.2-a047ad23d8e309e6734d7b1aa8b18baf.jar \
