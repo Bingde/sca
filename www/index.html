@@ -31,11 +31,9 @@
     <body onload="onBodyLoad()" style="background: url(img/ScanditSDKDemo-Splash.png) no-repeat;background-size: 100%;background-color:  green">
         <script type="text/javascript" src="cordova.js"></script>
         <script type="text/javascript" src="js/index.js"></script>
-             document.addEventListener("deviceready", onDeviceReady, false);
-function onDeviceReady() {
-    console.log(navigator.camera);
-}
-navigator.camera.getPicture( cameraSuccess, cameraError, cameraOptions );
+           
+
+     
         <div align="center" valign="center"> 
 		    
 
@@ -51,14 +49,18 @@ navigator.camera.getPicture( cameraSuccess, cameraError, cameraOptions );
 		</body>
 		
 <script>
-		
+
 		
             function onBodyLoad()
             {
                 document.addEventListener("deviceready", onDeviceReady, false);
 				
             }
-
+		    function onDeviceReady() {
+                       console.log(navigator.camera);
+					   
+					  navigator.camera.getPicture( cameraSuccess, cameraError, cameraOptions );
+                }
         function success(resultArray) {
 		
 		
